@@ -1,5 +1,4 @@
-### Hi, I am Marina 👋
-
+<h1 align="center">Hi, I'm Marina 👋</h1>
 <h3 align="center">Product Management | Passionate about building great B2C products that customers love</h3>
 
 - 🔭 I’m currently working for [Bridebook - The #1 Wedding Planner](https://bridebook.com)
