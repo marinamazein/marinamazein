@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Marina 👋</h1>
-<h3 align="center">Product Management | Passionate about building great B2C products that customers love</h3>
+<h1 align="left">Hi, I'm Marina 👋</h1>
+<h3 align="left">Product Management | Passionate about building great B2C products that customers love</h3>
 
 - 🔭 I’m currently working for [Bridebook - The #1 Wedding Planner](https://bridebook.com)
 - 🩷 I've co-founded and developing [Mi & Ju - The Only Couples App You'll Need](https://www.miandju.app/)
