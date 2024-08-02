@@ -10,6 +10,8 @@
 - 🩷 I've co-founded and developing [Mi & Ju - The Only Couples App You'll Need](https://www.miandju.app/)
   
 - ✨ I'm currently creating [VISIYA - Your Vision Board App](https://www.visiya.app/). It's my absolute heart project ❤️.
+
+- 🧘 I regularly write about [Pilates] (https://www.pilates.land/blog), my favourite exercise for body and mind.
   
 - 🤔 I’m interested in all things personal growth, psychology and  astrology 🌙
   
