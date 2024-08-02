@@ -11,7 +11,7 @@
   
 - ✨ I'm currently creating [VISIYA - Your Vision Board App](https://www.visiya.app/). It's my absolute heart project ❤️.
 
-- 🧘 I regularly write about [Pilates] (https://www.pilates.land/blog), my favourite exercise for body and mind.
+- 🧘 I regularly write about [Pilates](https://www.pilates.land/blog), my favourite exercise for body and mind.
   
 - 🤔 I’m interested in all things personal growth, psychology and  astrology 🌙
   
