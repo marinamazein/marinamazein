@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m a Senior PM, currently on maternity leave 🤰, 
+- 🔭 I’m a Senior PM, currently on maternity leave 🤰.
     
 - 💜 I have created [VISIYA - Your Vision Board App](https://www.visiya.app/). It's my absolute heart project ❤️.
 
@@ -15,4 +15,4 @@
 
 - 👩‍💻 I document my app building journey in ocassional developer logs and share my learnings on [Substack](https://visionandcode.substack.com/) 🇺🇸.
   
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/marina-mazein/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/marina-mazein/).
