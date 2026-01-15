@@ -9,7 +9,7 @@
     
 - 💜 I have created [VISIYA - Your Vision Board App](https://www.visiya.app/). It's my absolute heart project ❤️.
 
-- 🎨 I have just launched [Aethel - Mood Board App](https://aethel-app.com/). This project was heavily built using AI ✨.
+- 🎨 I have just launched [Aethel - Mood Board App](https://aethel-app.com/). This project was built heavily using AI ✨.
 
 - 🤔 I regularly write about [modern spirituality, body and mind](https://sacredinside.substack.com/) 🇩🇪.
 
