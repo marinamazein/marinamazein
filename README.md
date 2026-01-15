@@ -5,12 +5,14 @@
 
 
 
-- 🔭 I’m currently working for [Bridebook - The #1 Wedding Planner](https://bridebook.com)
+- 🔭 I’m a Senior PM, currently on maternity leave 🤰, 
     
-- ✨ I'm currently creating [VISIYA - Your Vision Board App](https://www.visiya.app/). It's my absolute heart project ❤️.
+- 💜 I have created [VISIYA - Your Vision Board App](https://www.visiya.app/). It's my absolute heart project ❤️.
 
-- 🧘 I regularly write about [Pilates](https://www.pilates.land/blog), my favourite exercise for body and mind.
-  
-- 🤔 I’m interested in all things personal growth, psychology and  astrology 🌙
+- 🎨 I have just launched [Aethel - Mood Board App](https://aethel-app.com/). This project was heavily built using AI ✨.
+
+- 🤔 I regularly write about [modern spirituality, body and mind](https://sacredinside.substack.com/) 🇩🇪.
+
+- 👩‍💻 I document my app building journey in ocassional developer logs and share my learnings on [Substack](https://visionandcode.substack.com/) 🇺🇸.
   
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/marina-mazein/)
