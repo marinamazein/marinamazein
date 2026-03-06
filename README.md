@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Marina 👋</h1>
 
-<h3 align="left">Product Management | Passionate about building B2C products for women</h3>
+<h3 align="left">Product Management | Passionate about building meaningful B2C products</h3>
 
 
 
@@ -13,6 +13,6 @@
 
 - 🤔 I regularly write about [modern spirituality, body and mind](https://sacredinside.substack.com/) 🇩🇪.
 
-- 👩‍💻 I document my app building journey in ocassional developer logs and share my learnings on [Substack](https://visionandcode.substack.com/) 🇺🇸.
+- 👩‍💻 I document my tech journey in ocassional developer logs and share my learnings on [Substack](https://visionandcode.substack.com/) 🇺🇸.
   
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/marina-mazein/).
