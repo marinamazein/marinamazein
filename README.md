@@ -10,6 +10,8 @@
 - 💜 I have created [VISIYA - Your Vision Board App](https://www.visiya.app/). It's my absolute heart project ❤️.
 
 - 🎨 I have just launched [Aethel - Mood Board App](https://aethel-app.com/). This project was built heavily using AI ✨.
+  
+- 🤸 As an exercise enthusiast, I co-founded [vitalina, an app to export data from Apple Health](https://vitalina.app/).
 
 - 🤔 I regularly write about [modern spirituality, body and mind](https://sacredinside.substack.com/) 🇩🇪.
 
